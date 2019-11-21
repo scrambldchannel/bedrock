@@ -244,7 +244,7 @@ While( nDelimIndex <> 0 & Long( sElements ) > 0 );
     If( pDebug <= 1 );
        IF(
        ELLEV( pDimension, sElement) > 0);
-         ExecuteProcess('Bedrock.Dim.Sub.Create',
+         ExecuteProcess('}Bedrock.Dim.Sub.Create',
            'pDimension', pDimension,
            'pSubset', pSubset,
            'pConsol', sElement,

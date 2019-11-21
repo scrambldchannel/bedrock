@@ -185,7 +185,7 @@ EndIf;
 ### Prepare target dimension ###
 If( pDebug <= 1 );
   If( DimensionExists( pDimension ) = 1 );
-    ExecuteProcess('Bedrock.Dim.Hierarchy.Unwind.All',
+    ExecuteProcess('}Bedrock.Dim.Hierarchy.Unwind.All',
       'pDimension', pDimension,
       'pDebug', pDebug );
   Else;

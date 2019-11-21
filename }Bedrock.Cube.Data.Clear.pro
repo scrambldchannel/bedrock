@@ -188,7 +188,7 @@ If( pDebug >= 1 );
   AsciiOutput( sDebugFile, 'Create view.' );
 EndIf;
 If( pDebug <= 1 );
-  vRes = ExecuteProcess('Bedrock.Cube.View.Create',
+  vRes = ExecuteProcess('}Bedrock.Cube.View.Create',
     'pCube', pCube,
     'pView', cView,
     'pFilter', pFilter,
@@ -246,7 +246,7 @@ EndIf;
 
 ### Destroy temporary views and susbsets ###
 If( pDebug <= 1 );
-  ExecuteProcess('Bedrock.Cube.ViewAndSubsets.Delete',
+  ExecuteProcess('}Bedrock.Cube.ViewAndSubsets.Delete',
     'pCube', pCube,
     'pView', cView,
     'pSubset', cView,

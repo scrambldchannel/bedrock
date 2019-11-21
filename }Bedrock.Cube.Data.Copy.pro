@@ -1220,7 +1220,7 @@ pDestroyTempObj > 0 );
   ## Destroy temporary source view.
   IF(
   nExistingSourceFlag = 0 );
-    nRet = ExecuteProcess('Bedrock.Cube.ViewAndSubsets.Delete',
+    nRet = ExecuteProcess('}Bedrock.Cube.ViewAndSubsets.Delete',
       'pCube', pCube,
       'pView', cTempViewFrom,
       'pSubset', cTempViewFrom,
@@ -1236,7 +1236,7 @@ pDestroyTempObj > 0 );
   IF( pZeroTarget = 1 );
   ## Destroy temporary target view.
 
-    nRet = ExecuteProcess('Bedrock.Cube.ViewAndSubsets.Delete',
+    nRet = ExecuteProcess('}Bedrock.Cube.ViewAndSubsets.Delete',
       'pCube', pCube,
       'pView', cTempViewTo,
       'pSubset', cTempSubTo ,

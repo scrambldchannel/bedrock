@@ -3,7 +3,7 @@
 586,
 585,
 564,
-565,"pP3eOjv=vk>qUWOpayRVg<R]N\UvKMwoljTTFVOjDVDO^UAnNwB;x1fNlA<z;p<AYtiQ[a]m9=d<HAcy]soQtLwNhwF\PLe2s6n>UD;^Q]Bpv6_0UMv[uQZ09E2noqnUuX2pD80ATEtV<Q_2ZL:Y3hF8TSfjq<mhC5=EXXwbtU@8stUGOsaHIxEw`7o3BVgyfefVclbR"
+565,"fBGh1taM`1FHSz5e4F=IfAW5Ldr@:?lDlPG3[nqA;oKgZqWTK^SUD0QG8bX\jXngfM2o>DiHw7BFaThnq3FGKzxU1<[CMKB0x?G>[N2Q[LFCZ@W1A]`wPTW]jTrKIX]mJKFna<@X_ceE?ym6^72SW2st5nQAiS5`tpSdP6LI\2WD0@5;@I7eHFVdI\nlyQtbfJI893g7"
 559,1
 928,0
 593,
@@ -24,45 +24,41 @@
 569,0
 592,0
 599,1000
-560,9
+560,8
 pDimension
 pSubset
-pAttribute
-pAttributeValue
+pConsol
 pAddToSubset
 pExclusions
 pDelimiter
 pAlias
 pDebug
-561,9
-2
-2
-2
-2
-1
+561,8
 2
 2
 2
 1
-590,9
+2
+2
+2
+1
+590,8
 pDimension,""
 pSubset,""
-pAttribute,""
-pAttributeValue,""
+pConsol,""
 pAddToSubset,0.
 pExclusions,""
 pDelimiter,"&"
 pAlias,""
 pDebug,0.
-637,9
+637,8
 pDimension,Dimension
-pSubset,SubsetName
-pAttribute,Dimension Attribute
-pAttributeValue,Dimension Attribute Value
+pSubset,Subset Name
+pConsol,Consolidated Element
 pAddToSubset,Add to an existing Subset (Boolean: 1=True)
 pExclusions,Excluded Elements
 pDelimiter,Delimiter
-pAlias,Assign an alias to a subset
+pAlias,Assign an Alias to the Subset
 pDebug,Debug Mode
 577,0
 578,0
@@ -70,7 +66,7 @@ pDebug,Debug Mode
 580,0
 581,0
 582,0
-572,25
+572,24
 
 #****Begin: Generated Statements***
 #****End: Generated Statements****
@@ -80,11 +76,10 @@ pDebug,Debug Mode
 #####################################################################################
 
 
-ExecuteProcess('Bedrock.Dim.Sub.Create',
+ExecuteProcess('}Bedrock.Dim.Sub.Create',
   'pDimension', pDimension,
   'pSubset', pSubset,
-  'pAttribute', pAttribute,
-  'pAttributeValue', pAttributeValue,
+  'pConsol', pConsol,
   'pLevelFrom', 0,
   'pLevelTo', 0,
   'pExclusions', pExclusions,

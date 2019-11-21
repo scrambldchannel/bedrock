@@ -183,7 +183,7 @@ EndIf;
 ### UNWIND CONSOLIDATION ###
 IF( 
 DIMIX( pDimension, pConsol ) > 0 );
-  ExecuteProcess('Bedrock.Dim.Hierarchy.Unwind.Consolidation'
+  ExecuteProcess('}Bedrock.Dim.Hierarchy.Unwind.Consolidation'
   , 'pDimension', pDimension
   , 'pConsol', pConsol
   , 'pRecursive', 0

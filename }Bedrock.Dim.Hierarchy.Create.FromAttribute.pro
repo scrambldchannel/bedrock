@@ -257,7 +257,7 @@ pUnwind = 1 &
 ElCompN( pDimension, sTopNode ) > 0  );
 ## The target consolidaiton exists in the dimension, unwind.
   If( pDebug <= 1 );
-    ExecuteProcess('Bedrock.Dim.Hierarchy.Unwind.Consolidation'
+    ExecuteProcess('}Bedrock.Dim.Hierarchy.Unwind.Consolidation'
       , 'pDimension', pDimension
       , 'pConsol', sTopNode
       , 'pRecursive', 1
@@ -447,7 +447,7 @@ WHILE( nIndex <= nLimit );
         sMsg = 'Delete component.';
         AsciiOutput( sDebugFile, vElement, sPrefix, vValue, sSuffix,  sElPar, sMsg );
 
-      ExecuteProcess('Bedrock.Dim.Element.Component.Delete'
+      ExecuteProcess('}Bedrock.Dim.Element.Component.Delete'
         , 'pDimension', pDimension
         , 'pParent', sElPar
         , 'pElement', vElement
@@ -499,7 +499,7 @@ EndIf;
 
 ### Destroy temporary views and susbsets ###
 If( pDebug <= 1 );
-  ExecuteProcess('Bedrock.Cube.ViewAndSubsets.Delete',
+  ExecuteProcess('}Bedrock.Cube.ViewAndSubsets.Delete',
     'pCube', cAttributeDim,
     'pView', cDataView,
     'pSubset', cDataView,
@@ -512,7 +512,7 @@ IF(
 pEmptyConsol = 1 );
 
   If( pDebug <= 1 );
-    ExecuteProcess('Bedrock.Dim.EmptyConsols.Delete'
+    ExecuteProcess('}Bedrock.Dim.EmptyConsols.Delete'
       , 'pDimension', pDimension
       , 'pDebug', pDebug );
   EndIf;

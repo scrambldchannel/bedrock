@@ -337,7 +337,7 @@ sCube = '}DimensionProperties';
 IF(
 CubeExists ( sCube ) = 1 );
 
-  ExecuteProcess('Bedrock.Cube.Data.Copy'
+  ExecuteProcess('}Bedrock.Cube.Data.Copy'
     , 'pCube', sCube
     , 'pDimension', '}Dimensions'
     , 'pSourceElement', pSourceDim
@@ -354,7 +354,7 @@ sCube = '}HierarchyProperties';
 IF(
 CubeExists ( sCube ) = 1 );
 
-  ExecuteProcess('Bedrock.Cube.Data.Copy'
+  ExecuteProcess('}Bedrock.Cube.Data.Copy'
     , 'pCube', sCube
     , 'pDimension', '}Dimensions'
     , 'pSourceElement', pSourceDim

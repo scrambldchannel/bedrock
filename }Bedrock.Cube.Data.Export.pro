@@ -855,7 +855,7 @@ EndIf;
 
 ### Create Processing View for source version ###
 If( pDebug <= 1 );
-nRet = ExecuteProcess('Bedrock.Cube.View.Create',
+nRet = ExecuteProcess('}Bedrock.Cube.View.Create',
   'pCube', pCube,
   'pView', cView,
   'pFilter', pFilter,
@@ -1124,7 +1124,7 @@ EndIf;
 
 ### Destroy temporary views and susbsets ###
 If( pDebug <= 1 );
-  ExecuteProcess('Bedrock.Cube.ViewAndSubsets.Delete',
+  ExecuteProcess('}Bedrock.Cube.ViewAndSubsets.Delete',
     'pCube', pCube,
     'pView', cView,
     'pSubset', cView,

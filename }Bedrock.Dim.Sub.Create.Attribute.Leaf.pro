@@ -3,7 +3,7 @@
 586,
 585,
 564,
-565,"svRQyu`Y;`d7xnoY1sIa9IoDpXq96hZ:t<_zfK^QohOsv5V33TuUaBbtdq;xV:OHvCw[A6nmP4;G`^dpxRT8<u_NNCK6z2`D^up@VTB:fjn68V7>\?ZqdhRtaAXqhHtjZl8j58Rto2nN\<yb^xjieq[D[3Z;_^k^OJUKiHBDZ[To0]vd8f]rgAzz?erEsZTq\8sY5Wum"
+565,"pP3eOjv=vk>qUWOpayRVg<R]N\UvKMwoljTTFVOjDVDO^UAnNwB;x1fNlA<z;p<AYtiQ[a]m9=d<HAcy]soQtLwNhwF\PLe2s6n>UD;^Q]Bpv6_0UMv[uQZ09E2noqnUuX2pD80ATEtV<Q_2ZL:Y3hF8TSfjq<mhC5=EXXwbtU@8stUGOsaHIxEw`7o3BVgyfefVclbR"
 559,1
 928,0
 593,
@@ -56,7 +56,7 @@ pAlias,""
 pDebug,0.
 637,9
 pDimension,Dimension
-pSubset,Subset Name
+pSubset,SubsetName
 pAttribute,Dimension Attribute
 pAttributeValue,Dimension Attribute Value
 pAddToSubset,Add to an existing Subset (Boolean: 1=True)
@@ -70,7 +70,7 @@ pDebug,Debug Mode
 580,0
 581,0
 582,0
-572,23
+572,25
 
 #****Begin: Generated Statements***
 #****End: Generated Statements****
@@ -80,11 +80,13 @@ pDebug,Debug Mode
 #####################################################################################
 
 
-ExecuteProcess('Bedrock.Dim.Sub.Create',
+ExecuteProcess('}Bedrock.Dim.Sub.Create',
   'pDimension', pDimension,
   'pSubset', pSubset,
   'pAttribute', pAttribute,
   'pAttributeValue', pAttributeValue,
+  'pLevelFrom', 0,
+  'pLevelTo', 0,
   'pExclusions', pExclusions,
   'pDelimiter', pDelimiter,
   'pAddToSubset', pAddToSubset,
