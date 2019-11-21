@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Cube.View.Publish"
+602,"}Bedrock.Cube.View.Publish"
 562,"NULL"
 586,
 585,

@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Import"
+602,"}Bedrock.Dim.Import"
 562,"CHARACTERDELIMITED"
 586,"C:\Users\adavis\Documents\Bedrock 3.0\Export\Column_Export.csv"
 585,"C:\Users\adavis\Documents\Bedrock 3.0\Export\Column_Export.csv"

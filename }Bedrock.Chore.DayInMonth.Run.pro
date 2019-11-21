@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Chore.DayInMonth.Run"
+602,"}Bedrock.Chore.DayInMonth.Run"
 562,"NULL"
 586,
 585,

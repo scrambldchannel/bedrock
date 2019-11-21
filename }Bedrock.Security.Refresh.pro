@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Refresh"
+602,"}Bedrock.Security.Refresh"
 562,"NULL"
 586,
 585,

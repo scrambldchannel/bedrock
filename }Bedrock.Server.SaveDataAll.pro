@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Server.SaveDataAll"
+602,"}Bedrock.Server.SaveDataAll"
 562,"NULL"
 586,
 585,

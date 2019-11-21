@@ -1,8 +1,8 @@
 ﻿601,100
-602,"Bedrock.Cube.Clone"
+602,"}Bedrock.Cube.Clone"
 562,"VIEW"
-586,"Bedrock Test"
-585,"Bedrock Test"
+586,"}Bedrock Test"
+585,"}Bedrock Test"
 564,
 565,"oy^9]C^:Rt>@@BrapR=C1hWpG;3MzoMT>]OYE7Ra`f7OYnu]Q4p6D90c6usDc^dYYB2xQx?aeZR;fo;:fAk`nGEjfj`??j`O?lYazpGeF3cs;j0LM_<no0tI^aeWy>6TD=ZBcXHnl0E:O3ec;b?[O59J_zmGz\:li>ZMrwxuI[1ql`=aoS?aFT@UJVp5c25>llpLJI@9"
 559,1

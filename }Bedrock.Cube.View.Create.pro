@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Cube.View.Create"
+602,"}Bedrock.Cube.View.Create"
 562,"NULL"
 586,"Variables"
 585,"Variables"

@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Cube.Data.ImportFromFile"
+602,"}Bedrock.Cube.Data.ImportFromFile"
 562,"CHARACTERDELIMITED"
 586,"C:\TM1\Bedrock\Data\Bedrock.Z.Cube.Placeholder.csv"
 585,"C:\TM1\Bedrock\Data\Bedrock.Z.Cube.Placeholder.csv"

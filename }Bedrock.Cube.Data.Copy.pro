@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Cube.Data.Copy"
+602,"}Bedrock.Cube.Data.Copy"
 562,"VIEW"
 586,"zzSYS 50 Dim Cube"
 585,"zzSYS 50 Dim Cube"

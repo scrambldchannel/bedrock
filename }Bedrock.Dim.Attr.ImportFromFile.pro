@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Attr.ImportFromFile"
+602,"}Bedrock.Dim.Attr.ImportFromFile"
 562,"CHARACTERDELIMITED"
 586,"C:\TM1\Bedrock\Data\Bedrock.Z.Attr.Placeholder.csv"
 585,"C:\TM1\Bedrock\Data\Bedrock.Z.Attr.Placeholder.csv"

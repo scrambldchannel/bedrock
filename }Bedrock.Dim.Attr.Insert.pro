@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Attr.Insert"
+602,"}Bedrock.Dim.Attr.Insert"
 562,"NULL"
 586,
 585,

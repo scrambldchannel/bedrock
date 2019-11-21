@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Dim.Hierarchy.Create.FromAttribute"
+602,"}Bedrock.Dim.Hierarchy.Create.FromAttribute"
 562,"VIEW"
 586,"}ElementAttributes_}Clients"
 585,"}ElementAttributes_}Clients"

@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Server.Wait"
+602,"}Bedrock.Server.Wait"
 562,"NULL"
 586,
 585,

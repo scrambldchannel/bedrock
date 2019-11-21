@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Sub.Create.ByMDX"
+602,"}Bedrock.Dim.Sub.Create.ByMDX"
 562,"NULL"
 586,"C:\TM1\Bedrock\Data\Bedrock.Z.MDX.Placeholder.csv"
 585,"C:\TM1\Bedrock\Data\Bedrock.Z.MDX.Placeholder.csv"

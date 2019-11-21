@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Server.DeleteAllPersistentFeeders"
+602,"}Bedrock.Server.DeleteAllPersistentFeeders"
 562,"NULL"
 586,
 585,

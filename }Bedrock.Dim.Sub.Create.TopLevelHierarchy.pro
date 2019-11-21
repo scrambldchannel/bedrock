@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Sub.Create.TopLevelHierarchy"
+602,"}Bedrock.Dim.Sub.Create.TopLevelHierarchy"
 562,"NULL"
 586,
 585,

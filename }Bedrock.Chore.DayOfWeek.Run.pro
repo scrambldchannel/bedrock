@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Chore.DayOfWeek.Run"
+602,"}Bedrock.Chore.DayOfWeek.Run"
 562,"NULL"
 586,
 585,

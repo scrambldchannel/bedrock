@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Sub.Create.Leaf"
+602,"}Bedrock.Dim.Sub.Create.Leaf"
 562,"NULL"
 586,
 585,

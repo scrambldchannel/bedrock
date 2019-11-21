@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Security.Cube.CellSecurity.Create"
+602,"}Bedrock.Security.Cube.CellSecurity.Create"
 562,"NULL"
 586,
 585,

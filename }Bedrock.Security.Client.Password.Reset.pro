@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Client.Password.Reset"
+602,"}Bedrock.Security.Client.Password.Reset"
 562,"NULL"
 586,
 585,

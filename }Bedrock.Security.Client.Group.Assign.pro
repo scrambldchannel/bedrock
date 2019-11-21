@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Client.Group.Assign"
+602,"}Bedrock.Security.Client.Group.Assign"
 562,"NULL"
 586,
 585,

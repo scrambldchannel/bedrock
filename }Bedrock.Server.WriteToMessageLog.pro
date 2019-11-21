@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Server.WriteToMessageLog"
+602,"}Bedrock.Server.WriteToMessageLog"
 562,"NULL"
 586,
 585,

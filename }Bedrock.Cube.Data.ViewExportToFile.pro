@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Cube.Data.ViewExportToFile"
+602,"}Bedrock.Cube.Data.ViewExportToFile"
 562,"VIEW"
 586,"placeholder"
 585,"placeholder"

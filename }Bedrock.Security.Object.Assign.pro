@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Object.Assign"
+602,"}Bedrock.Security.Object.Assign"
 562,"NULL"
 586,
 585,

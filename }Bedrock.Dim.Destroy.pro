@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Destroy"
+602,"}Bedrock.Dim.Destroy"
 562,"NULL"
 586,
 585,

@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.EmptyConsols.Delete"
+602,"}Bedrock.Dim.EmptyConsols.Delete"
 562,"NULL"
 586,
 585,

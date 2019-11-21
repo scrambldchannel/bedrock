@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Cube.Rule.ProcessFeeders"
+602,"}Bedrock.Cube.Rule.ProcessFeeders"
 562,"CHARACTERDELIMITED"
 586,"C:\TM1Data\Bedrock3\Data\Excel.RUX"
 585,"C:\TM1Data\Bedrock3\Data\Excel.RUX"

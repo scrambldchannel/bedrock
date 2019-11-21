@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Client.Delete"
+602,"}Bedrock.Security.Client.Delete"
 562,"NULL"
 586,
 585,

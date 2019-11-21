@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Client.Create"
+602,"}Bedrock.Security.Client.Create"
 562,"NULL"
 586,
 585,

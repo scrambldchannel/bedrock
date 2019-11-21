@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Server.DataDir.ListContents"
+602,"}Bedrock.Server.DataDir.ListContents"
 562,"NULL"
 586,
 585,

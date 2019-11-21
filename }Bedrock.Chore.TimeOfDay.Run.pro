@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Chore.TimeOfDay.Run"
+602,"}Bedrock.Chore.TimeOfDay.Run"
 562,"NULL"
 586,
 585,

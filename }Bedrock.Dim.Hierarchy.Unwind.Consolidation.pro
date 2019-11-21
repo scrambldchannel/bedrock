@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Dim.Hierarchy.Unwind.Consolidation"
+602,"}Bedrock.Dim.Hierarchy.Unwind.Consolidation"
 562,"SUBSET"
 586,"}Cubes"
 585,"}Cubes"

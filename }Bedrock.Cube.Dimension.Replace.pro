@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Cube.Dimension.Replace"
+602,"}Bedrock.Cube.Dimension.Replace"
 562,"NULL"
 586,
 585,

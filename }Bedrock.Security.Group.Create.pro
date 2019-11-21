@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Security.Group.Create"
+602,"}Bedrock.Security.Group.Create"
 562,"NULL"
 586,
 585,

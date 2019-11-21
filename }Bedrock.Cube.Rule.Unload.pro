@@ -1,5 +1,5 @@
 ﻿601,100
-602,"Bedrock.Cube.Rule.Unload"
+602,"}Bedrock.Cube.Rule.Unload"
 562,"CHARACTERDELIMITED"
 586,"C:\TM1Data\Bedrock3\Data\Excel.RUX"
 585,"C:\TM1Data\Bedrock3\Data\Excel.RUX"

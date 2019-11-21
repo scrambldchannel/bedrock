@@ -1,5 +1,5 @@
 601,100
-602,"Bedrock.Cube.Delete"
+602,"}Bedrock.Cube.Delete"
 562,"NULL"
 586,
 585,
