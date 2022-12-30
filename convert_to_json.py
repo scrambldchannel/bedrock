@@ -11,17 +11,23 @@ ft = TM1FileTool(path=path)
 main_procs = ft.get_procs(control=True)
 
 
-# files = [f for f in ft._path.glob(pattern="*.pro")]
+failures = []
 
 for p in main_procs:
 
-    failures = []
     try:
         json_out = p._to_json()
         with open(f"json/{p.stem}.json", "w") as outfile:
             outfile.write(json_out)
     except:
         pass
+    finally:
+        failures.append(p.name)
+
+with open(f"failure_log", "w") as outfile:
+
+    for fail in failures:
+        outfile.write(f"{fail}\n")
 
 
 
