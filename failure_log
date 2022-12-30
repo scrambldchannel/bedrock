@@ -1,17 +1,17 @@
-}bedrock.hier.leaves.orphan.check.pro
-}bedrock.hier.export.pro
-}bedrock.hier.sub.create.pro
-}bedrock.hier.clone.pro
-}bedrock.hier.elements.validate.pro
-}bedrock.cube.data.export.pro
-}bedrock.cube.data.copy.intercube.pro
-}bedrock.cube.data.copy.pro
-}bedrock.hier.create.fromsubset.pro
-}bedrock.hier.leaves.sync.pro
-}bedrock.hier.export.script.pro
-}bedrock.hier.sub.clone.pro
-}bedrock.dim.clone.pro
-}bedrock.hier.consol.flat.create.pro
-}bedrock.hier.sub.exporttofile.pro
-}bedrock.hier.create.fromattribute.pro
-}bedrock.hier.unwind.pro
+('}bedrock.hier.leaves.orphan.check.pro', KeyError('SUBSET'))
+('}bedrock.hier.export.pro', KeyError('SUBSET'))
+('}bedrock.hier.sub.create.pro', KeyError('SUBSET'))
+('}bedrock.hier.clone.pro', KeyError('SUBSET'))
+('}bedrock.hier.elements.validate.pro', KeyError('SUBSET'))
+('}bedrock.cube.data.export.pro', KeyError('VIEW'))
+('}bedrock.cube.data.copy.intercube.pro', KeyError('VIEW'))
+('}bedrock.cube.data.copy.pro', KeyError('VIEW'))
+('}bedrock.hier.create.fromsubset.pro', KeyError('SUBSET'))
+('}bedrock.hier.leaves.sync.pro', KeyError('SUBSET'))
+('}bedrock.hier.export.script.pro', KeyError('SUBSET'))
+('}bedrock.hier.sub.clone.pro', KeyError('SUBSET'))
+('}bedrock.dim.clone.pro', KeyError('SUBSET'))
+('}bedrock.hier.consol.flat.create.pro', KeyError('SUBSET'))
+('}bedrock.hier.sub.exporttofile.pro', KeyError('SUBSET'))
+('}bedrock.hier.create.fromattribute.pro', KeyError('VIEW'))
+('}bedrock.hier.unwind.pro', KeyError('SUBSET'))
