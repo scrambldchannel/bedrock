@@ -19,9 +19,8 @@ for p in main_procs:
         json_out = p._to_json()
         with open(f"json/{p.stem}.json", "w") as outfile:
             outfile.write(json_out)
-    except:
-        pass
-    finally:
+    except Exception:
+
         failures.append(p.name)
 
 with open(f"failure_log", "w") as outfile:
